@@ -45,7 +45,7 @@ This AI-powered tool helps visually impaired individuals interact with their env
 | Text-to-Speech              | pyttsx3                 |
 | Navigation                  | OpenRouteService API    |
 | User Interface              | Streamlit               |
-| Optional AI Assistant       | Gemini AI               |
+|  AI Assistant               | Gemini AI               |
 
 ---
 
